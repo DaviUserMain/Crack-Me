@@ -1,1 +1,15 @@
-# Level-1-Classroom
+# 🔳 Cryptographic Challenge: Level 1 🔳
+
+## Your Mission
+
+Greetings, Agent.
+
+Your mission, should you choose to accept it, is to decipher the secret message contained in this transmission. What was once a readable word has been transformed into a sequence of numbers using a powerful public-key cryptography system.
+
+This message will self-destruct upon reading (not really, but it sounds cooler). Good luck.
+
+---
+
+### 📜 The Ciphertext
+
+The sequence of numbers you need to decipher is: ( x ä [Del] š ¹ à D )
