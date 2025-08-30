@@ -12,4 +12,4 @@ This message will self-destruct upon reading (not really, but it sounds cooler).
 
 ### 📜 The Ciphertext
 
-The sequence of numbers you need to decipher is: ( x ä [Del] š ¹ à D )
+The sequence of numbers you need to decipher is: ( xä[Del]š¹àD )
