@@ -13,5 +13,3 @@ This message will self-destruct upon reading (not really, but it sounds cooler).
 ### 📜 The Ciphertext
 
 The sequence of numbers you need to decipher is: ( xä[Del]š¹àD )
-
-### OBS : ASCII 256 USED
