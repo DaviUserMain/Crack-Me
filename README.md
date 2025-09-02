@@ -1,17 +1,29 @@
-# 🔳 Cryptographic Challenge: Level 1 🔳
+# > Cryptographic Challenge
 
-## Your Mission
+## > Your Mission
 
 Greetings, Agent.
 
-Your mission, should you choose to accept it, is to decipher the secret message contained in this transmission. What was once a readable word has been transformed into a sequence of numbers using a powerful public-key cryptography system.
-
-This message will self-destruct upon reading (not really, but it sounds cooler). Good luck.
+Your mission, should you choose to accept it, is to **decipher the secret message** hidden within this transmission. A once-readable word has been cleverly transformed into a mysterious sequence of numbers and symbols using a powerful cryptographic method.
 
 ---
 
-### 📜 The Ciphertext
+### > The Ciphertext
 
-The sequence of numbers you need to decipher is: ( x,,[Del]š¹àD )
+Here is your encrypted message:
 
-Obs: shift is between 0 to 20 and the encryption is geometric, good luck :)
+```
+( x,,[Del]š¹àD )
+```
+
+---
+
+### ? Hints
+
+- The **shift value** used in the cipher is between **0 and 20**.
+- The encryption is **geometric** in nature.
+- Pay close attention to the patterns and transformations.
+
+---
+
+**Good luck !**
