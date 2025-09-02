@@ -13,3 +13,5 @@ This message will self-destruct upon reading (not really, but it sounds cooler).
 ### 📜 The Ciphertext
 
 The sequence of numbers you need to decipher is: ( xä[Del]š¹àD )
+
+Obs: shift is between 0 to 20 and the encryption is geometric, good luck :)
